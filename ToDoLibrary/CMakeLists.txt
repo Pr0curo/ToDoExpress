@@ -6,8 +6,8 @@ PROJECT(ToDoLibrary)
 
 # C++ Compiler Definitions
 add_definitions(-std=c++14)
-add_definitions(-Wall)
-add_definitions(-Wextra)
+#add_definitions(-Wall)
+#add_definitions(-Wextra)
 #add_definitions(-Weffc++)
 
 # set debug & release version flags
